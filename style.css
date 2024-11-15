@@ -1,0 +1,53 @@
+body{
+    margin:0;
+    padding:0;
+}
+    header{
+    color: white;
+    background-color: red;
+    padding: 20px;
+    }
+    a{
+        text-decoration: none;
+    }
+    nav ul{
+          list-style-type: none;
+          margin: 0;
+          padding:0 ;
+}
+nav li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav li a{
+    color: #fff;
+    text-decoration: none;
+
+}
+nav li a:hover{
+    color: red;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+main{
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section img{
+    width: 50%px;
+    height: 370px;
+}
+
+footer{
+    background-color: red;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+
